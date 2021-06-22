@@ -2,7 +2,7 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Linus" src="https://images-ext-1.discordapp.net/external/-pKcVgw4tGeXfhHwTPNqo_XY-aB55EE7Yzc0QrcZVVc/%3Fwidth%3D670%26height%3D670/https/media.discordapp.net/attachments/855453676822986753/856968940676579368/54ccb70cf3f3ca5482a5bd8fa0ca196a.jpg?size=512">  
 
 # Linus
-[![](https://top.gg/api/widget/status/linus-soon.svg)](https://top.gg/bot/linus-soon)
+[![](https://top.gg/api/widget/status/linus-soon.svg)](https://top.gg/bot/815382719080955924)
 [![](https://img.shields.io/discord/703861020195553312.svg?logo=discord&colorB=7289DA)](https://discord.gg/mEBr6tzNuz)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://www.codefactor.io/repository/github/bigopenworld/linus/badge)](https://www.codefactor.io/repository/github/bigopenworld/linus)
@@ -22,7 +22,7 @@
 
 ### De magnifique commandes interactives de configuration 
 
-[Linus](https://top.gg/bot/linus-soon/invite/) a beaucoups de commandes interactives pour configurer ces systèmes ( captcha, anti-spam, suggestion, bienvenue, leave ... ) qui vout permet ainsi de ne pas perdre de temps à en comprendre le fonctionnement !
+[Linus](https://top.gg/bot/815382719080955924/invite/) a beaucoups de commandes interactives pour configurer ces systèmes ( captcha, anti-spam, suggestion, bienvenue, leave ... ) qui vout permet ainsi de ne pas perdre de temps à en comprendre le fonctionnement !
 
 #### Dashboard en développement
 
