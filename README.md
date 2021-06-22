@@ -1,5 +1,5 @@
 
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Linus" src="https://media.discordapp.net/attachments/855461919615746089/856964226392653864/unknown.png?size=512">  
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Linus" src="https://media.discordapp.net/attachments/855453676822986753/856968940676579368/54ccb70cf3f3ca5482a5bd8fa0ca196a.jpg?width=670&height=670?size=512">  
 
 # Linus
 [![](https://top.gg/api/widget/status/linus-soon.svg)](https://top.gg/bot/linus-soon)
