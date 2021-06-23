@@ -7,7 +7,7 @@
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://www.codefactor.io/repository/github/bigopenworld/linus/badge)](https://www.codefactor.io/repository/github/bigopenworld/linus)
 
-⭐ Linus est un bot Multi - Fonctions fait avec [Discord.js](https://discord.js.org) et [Mongoose](https://mongoosejs.com/) par [Apoo](https://github.com/apoow3b).
+⭐ Linus est un bot Multi - Fonctions fait avec [Discord.js](https://discord.js.org) et [Quick.db](https://quickdb.js.org/) par [Apoo](https://github.com/apoow3b).
 
 ## Commands List
 
